@@ -33,7 +33,7 @@ All other necessary dependencies are installed at the beginning of the `main.ipy
 ## Acknowledgments
 
 - Special thanks to the original repository for **YOLOv11** ([link to YOLOv11 repo](https://github.com/ultralytics/ultralytics)) for providing the base model and implementation that made this project possible.
-- Acknowledgments to the repository from which the **vehicle license plate dataset** was sourced ([link to dataset repo](https://github.com/AarohiSingla/YOLOv10-Custom-Object-Detection)). This dataset was crucial for training and validating the model.
+- Acknowledgments to the repository from which the **vehicle license plate dataset** was sourced ([link to dataset repo](https://github.com/AarohiSingla/YOLOv10-Custom-Object-Detection.git)). This dataset was crucial for training and validating the model.
 
 
 License
